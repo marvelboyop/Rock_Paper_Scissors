@@ -20,4 +20,5 @@ A simple console-based **Rock-Paper-Scissors** game built using C++.
    g++ RockPaperScissors.cpp -o game
 2. Run:
 ./game
-Enjoy the game 🎉
+
+## Enjoy the game 🎉
